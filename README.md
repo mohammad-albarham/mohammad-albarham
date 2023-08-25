@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [MOHAMMAD ALBARHAM!](https://www.linkedin.com/in/muhammad-al-barham/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [MOHAMMAD ALBARHAM!](https://mohammad-albarham.github.io/) 
 
 
 ### About Me 🚀
@@ -10,12 +10,13 @@
 
 ## Resume/CV:
 
-- Extended version: [PDF]()
-- 1-page version: [PDF]()
+- Extended version: Will be provided soon.
+- 1-page version: Will be provided soon.
 
 
 ## Connect with me:
 
+[<img align="left" alt="mohammadalbarham | Email" width="22px" src="https://icon-icons.com/downloadimage.php?id=115741&root=1827/PNG/128/&file=4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" />][Website]
 [<img align="left" alt="mohammadalbarham | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 [<img align="left" alt="mohammadalbarham | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="mohammadalbarham | Scholar" width="22px" src="https://icon-icons.com/downloadimage.php?id=130918&root=2108/PNG/32/&file=google_scholar_icon_130918.png" />][scholar]
@@ -41,6 +42,7 @@
 <br />
 
 ##
+[Website]: https://mohammad-albarham.github.io/
 [email]: mailto:mohammedbrham98@gmail.com
 [scholar]: https://scholar.google.com/citations?user=3znRUJoAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/muhammad-al-barham
