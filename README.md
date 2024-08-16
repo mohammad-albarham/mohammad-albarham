@@ -8,11 +8,6 @@
 
 - I’m actively working on solving problems.
 
-## Resume/CV:
-
-- Extended version: Will be provided soon.
-- 1-page version: Will be provided soon.
-
 
 ## Connect with me:
 
