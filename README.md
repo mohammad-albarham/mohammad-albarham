@@ -9,9 +9,12 @@
 - I’m actively working on solving problems.
 
 
+## My website`:
+
+https://mohammad-albarham.github.io/
+
 ## Connect with me:
 
-[<img align="left" alt="mohammadalbarham | Email" width="22px" src="https://icon-icons.com/downloadimage.php?id=115741&root=1827/PNG/128/&file=4288584andbusinessfinancepersonalportfolioprofileresume-115772_115741.png" />][Website]
 [<img align="left" alt="mohammadalbarham | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 [<img align="left" alt="mohammadalbarham | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="mohammadalbarham | Scholar" width="22px" src="https://icon-icons.com/downloadimage.php?id=130918&root=2108/PNG/32/&file=google_scholar_icon_130918.png" />][scholar]
