@@ -42,7 +42,6 @@ https://mohammad-albarham.github.io/
 ##
 [Website]: https://mohammad-albarham.github.io/
 [email]: mailto:mohammedbrham98@gmail.com
-[scholar]: https://scholar.google.com/citations?user=3znRUJoAAAAJ&hl=en
 [linkedin]: https://www.linkedin.com/in/muhammad-al-barham
 
 ![Barham's github stats](https://github-readme-stats.vercel.app/api?username=mohammad-albarham&show_icons=true&hide_border=true)&nbsp;&nbsp;
