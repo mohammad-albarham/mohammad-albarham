@@ -15,7 +15,7 @@ Check out my website for publications, projects, and blog posts:
 
 ### 🤝 Connect With Me
 [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
-[<img align="left" alt="Website" width="22px" src="assets/website-icon.png" />][website]
+[<img align="left" alt="Website" width="22px" src="https://github.com/mohammad-albarham/mohammad-albarham/blob/main/generated-image.png" />][website]
 
 <br/>
 
