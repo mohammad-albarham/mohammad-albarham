@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 I'm a **problem solver** who loves coding, experimenting, and learning new things.  
-Currently, I'm a **Vision Engineer at [Aptiv](https://www.aptiv.com/)** and a **Master’s student at [Chalmers University of Technology](https://www.chalmers.se/)** in Sweden.  
+Currently, I'm a Associate Software Engineer in Perception systems at [Aptiv](https://www.aptiv.com/)** in Sweden.  
 My passion lies in **computer vision, AI, and autonomous systems**, where I explore the intersection of research and real-world engineering.
 
 ---
