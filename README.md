@@ -20,7 +20,7 @@ Check out my website for publications, projects, and blog posts:
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/albarham/
-[website]: https://mohammad-albarham.github.io/
+[website]:  https://albarham.dev/
 
 ---
 
