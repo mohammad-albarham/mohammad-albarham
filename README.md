@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 I'm a **problem solver** who loves coding, experimenting, and learning new things.  
-Currently, I'm a Associate Software Engineer in Perception systems at [Aptiv](https://www.aptiv.com/)** in Sweden.  
+Currently, I'm a Associate Software Engineer in Perception systems at [Aptiv](https://www.aptiv.com/) in Sweden.  
 My passion lies in **computer vision, AI, and autonomous systems**, where I explore the intersection of research and real-world engineering.
 
 ---
